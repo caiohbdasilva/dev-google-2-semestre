@@ -1,0 +1,14 @@
+C:\Users\45797375800\Desktop\dev-google\13-13-03_estruturas_de_decisao\atividade_1\bin\Debug\net10.0\atividade_1.exe
+C:\Users\45797375800\Desktop\dev-google\13-13-03_estruturas_de_decisao\atividade_1\bin\Debug\net10.0\atividade_1.deps.json
+C:\Users\45797375800\Desktop\dev-google\13-13-03_estruturas_de_decisao\atividade_1\bin\Debug\net10.0\atividade_1.runtimeconfig.json
+C:\Users\45797375800\Desktop\dev-google\13-13-03_estruturas_de_decisao\atividade_1\bin\Debug\net10.0\atividade_1.dll
+C:\Users\45797375800\Desktop\dev-google\13-13-03_estruturas_de_decisao\atividade_1\bin\Debug\net10.0\atividade_1.pdb
+C:\Users\45797375800\Desktop\dev-google\13-13-03_estruturas_de_decisao\atividade_1\obj\Debug\net10.0\atividade_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45797375800\Desktop\dev-google\13-13-03_estruturas_de_decisao\atividade_1\obj\Debug\net10.0\atividade_1.AssemblyInfoInputs.cache
+C:\Users\45797375800\Desktop\dev-google\13-13-03_estruturas_de_decisao\atividade_1\obj\Debug\net10.0\atividade_1.AssemblyInfo.cs
+C:\Users\45797375800\Desktop\dev-google\13-13-03_estruturas_de_decisao\atividade_1\obj\Debug\net10.0\atividade_1.csproj.CoreCompileInputs.cache
+C:\Users\45797375800\Desktop\dev-google\13-13-03_estruturas_de_decisao\atividade_1\obj\Debug\net10.0\atividade_1.dll
+C:\Users\45797375800\Desktop\dev-google\13-13-03_estruturas_de_decisao\atividade_1\obj\Debug\net10.0\refint\atividade_1.dll
+C:\Users\45797375800\Desktop\dev-google\13-13-03_estruturas_de_decisao\atividade_1\obj\Debug\net10.0\atividade_1.pdb
+C:\Users\45797375800\Desktop\dev-google\13-13-03_estruturas_de_decisao\atividade_1\obj\Debug\net10.0\atividade_1.genruntimeconfig.cache
+C:\Users\45797375800\Desktop\dev-google\13-13-03_estruturas_de_decisao\atividade_1\obj\Debug\net10.0\ref\atividade_1.dll

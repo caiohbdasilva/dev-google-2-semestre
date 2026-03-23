@@ -1,0 +1,14 @@
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_2\bin\Debug\net10.0\atividade_2.exe
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_2\bin\Debug\net10.0\atividade_2.deps.json
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_2\bin\Debug\net10.0\atividade_2.runtimeconfig.json
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_2\bin\Debug\net10.0\atividade_2.dll
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_2\bin\Debug\net10.0\atividade_2.pdb
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_2\obj\Debug\net10.0\atividade_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_2\obj\Debug\net10.0\atividade_2.AssemblyInfoInputs.cache
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_2\obj\Debug\net10.0\atividade_2.AssemblyInfo.cs
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_2\obj\Debug\net10.0\atividade_2.csproj.CoreCompileInputs.cache
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_2\obj\Debug\net10.0\atividade_2.dll
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_2\obj\Debug\net10.0\refint\atividade_2.dll
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_2\obj\Debug\net10.0\atividade_2.pdb
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_2\obj\Debug\net10.0\atividade_2.genruntimeconfig.cache
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_2\obj\Debug\net10.0\ref\atividade_2.dll

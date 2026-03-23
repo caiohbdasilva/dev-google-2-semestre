@@ -1,0 +1,14 @@
+C:\Users\45797375800\Desktop\dev-google\funcoes_metodos\bin\Debug\net10.0\funcoes_metodos.exe
+C:\Users\45797375800\Desktop\dev-google\funcoes_metodos\bin\Debug\net10.0\funcoes_metodos.deps.json
+C:\Users\45797375800\Desktop\dev-google\funcoes_metodos\bin\Debug\net10.0\funcoes_metodos.runtimeconfig.json
+C:\Users\45797375800\Desktop\dev-google\funcoes_metodos\bin\Debug\net10.0\funcoes_metodos.dll
+C:\Users\45797375800\Desktop\dev-google\funcoes_metodos\bin\Debug\net10.0\funcoes_metodos.pdb
+C:\Users\45797375800\Desktop\dev-google\funcoes_metodos\obj\Debug\net10.0\funcoes_metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45797375800\Desktop\dev-google\funcoes_metodos\obj\Debug\net10.0\funcoes_metodos.AssemblyInfoInputs.cache
+C:\Users\45797375800\Desktop\dev-google\funcoes_metodos\obj\Debug\net10.0\funcoes_metodos.AssemblyInfo.cs
+C:\Users\45797375800\Desktop\dev-google\funcoes_metodos\obj\Debug\net10.0\funcoes_metodos.csproj.CoreCompileInputs.cache
+C:\Users\45797375800\Desktop\dev-google\funcoes_metodos\obj\Debug\net10.0\funcoes_metodos.dll
+C:\Users\45797375800\Desktop\dev-google\funcoes_metodos\obj\Debug\net10.0\refint\funcoes_metodos.dll
+C:\Users\45797375800\Desktop\dev-google\funcoes_metodos\obj\Debug\net10.0\funcoes_metodos.pdb
+C:\Users\45797375800\Desktop\dev-google\funcoes_metodos\obj\Debug\net10.0\funcoes_metodos.genruntimeconfig.cache
+C:\Users\45797375800\Desktop\dev-google\funcoes_metodos\obj\Debug\net10.0\ref\funcoes_metodos.dll

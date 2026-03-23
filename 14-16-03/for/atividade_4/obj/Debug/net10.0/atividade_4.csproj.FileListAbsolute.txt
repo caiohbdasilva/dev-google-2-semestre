@@ -1,0 +1,14 @@
+C:\Users\45797375800\Desktop\dev-google\14-16-03\for\atividade_4\bin\Debug\net10.0\atividade_4.exe
+C:\Users\45797375800\Desktop\dev-google\14-16-03\for\atividade_4\bin\Debug\net10.0\atividade_4.deps.json
+C:\Users\45797375800\Desktop\dev-google\14-16-03\for\atividade_4\bin\Debug\net10.0\atividade_4.runtimeconfig.json
+C:\Users\45797375800\Desktop\dev-google\14-16-03\for\atividade_4\bin\Debug\net10.0\atividade_4.dll
+C:\Users\45797375800\Desktop\dev-google\14-16-03\for\atividade_4\bin\Debug\net10.0\atividade_4.pdb
+C:\Users\45797375800\Desktop\dev-google\14-16-03\for\atividade_4\obj\Debug\net10.0\atividade_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45797375800\Desktop\dev-google\14-16-03\for\atividade_4\obj\Debug\net10.0\atividade_4.AssemblyInfoInputs.cache
+C:\Users\45797375800\Desktop\dev-google\14-16-03\for\atividade_4\obj\Debug\net10.0\atividade_4.AssemblyInfo.cs
+C:\Users\45797375800\Desktop\dev-google\14-16-03\for\atividade_4\obj\Debug\net10.0\atividade_4.csproj.CoreCompileInputs.cache
+C:\Users\45797375800\Desktop\dev-google\14-16-03\for\atividade_4\obj\Debug\net10.0\atividade_4.dll
+C:\Users\45797375800\Desktop\dev-google\14-16-03\for\atividade_4\obj\Debug\net10.0\refint\atividade_4.dll
+C:\Users\45797375800\Desktop\dev-google\14-16-03\for\atividade_4\obj\Debug\net10.0\atividade_4.pdb
+C:\Users\45797375800\Desktop\dev-google\14-16-03\for\atividade_4\obj\Debug\net10.0\atividade_4.genruntimeconfig.cache
+C:\Users\45797375800\Desktop\dev-google\14-16-03\for\atividade_4\obj\Debug\net10.0\ref\atividade_4.dll

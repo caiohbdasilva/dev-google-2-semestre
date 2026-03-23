@@ -1,0 +1,4 @@
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_1\obj\Debug\net10.0\atividade_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_1\obj\Debug\net10.0\atividade_1.AssemblyInfoInputs.cache
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_1\obj\Debug\net10.0\atividade_1.AssemblyInfo.cs
+C:\Users\45797375800\Desktop\dev-google\15-20-03_funcoes_metodos\atividade_1\obj\Debug\net10.0\atividade_1.csproj.CoreCompileInputs.cache

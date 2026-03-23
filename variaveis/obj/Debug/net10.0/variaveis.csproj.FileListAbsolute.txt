@@ -1,0 +1,14 @@
+C:\Users\45797375800\Desktop\dev-google\variaveis\bin\Debug\net10.0\variaveis.exe
+C:\Users\45797375800\Desktop\dev-google\variaveis\bin\Debug\net10.0\variaveis.deps.json
+C:\Users\45797375800\Desktop\dev-google\variaveis\bin\Debug\net10.0\variaveis.runtimeconfig.json
+C:\Users\45797375800\Desktop\dev-google\variaveis\bin\Debug\net10.0\variaveis.dll
+C:\Users\45797375800\Desktop\dev-google\variaveis\bin\Debug\net10.0\variaveis.pdb
+C:\Users\45797375800\Desktop\dev-google\variaveis\obj\Debug\net10.0\variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45797375800\Desktop\dev-google\variaveis\obj\Debug\net10.0\variaveis.AssemblyInfoInputs.cache
+C:\Users\45797375800\Desktop\dev-google\variaveis\obj\Debug\net10.0\variaveis.AssemblyInfo.cs
+C:\Users\45797375800\Desktop\dev-google\variaveis\obj\Debug\net10.0\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\45797375800\Desktop\dev-google\variaveis\obj\Debug\net10.0\variaveis.dll
+C:\Users\45797375800\Desktop\dev-google\variaveis\obj\Debug\net10.0\refint\variaveis.dll
+C:\Users\45797375800\Desktop\dev-google\variaveis\obj\Debug\net10.0\variaveis.pdb
+C:\Users\45797375800\Desktop\dev-google\variaveis\obj\Debug\net10.0\variaveis.genruntimeconfig.cache
+C:\Users\45797375800\Desktop\dev-google\variaveis\obj\Debug\net10.0\ref\variaveis.dll
