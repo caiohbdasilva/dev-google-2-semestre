@@ -1,0 +1,15 @@
+C:\Users\45797375800\Desktop\dev-google\18-30-03\bin\Debug\net10.0\18-30-03.exe
+C:\Users\45797375800\Desktop\dev-google\18-30-03\bin\Debug\net10.0\18-30-03.deps.json
+C:\Users\45797375800\Desktop\dev-google\18-30-03\bin\Debug\net10.0\18-30-03.runtimeconfig.json
+C:\Users\45797375800\Desktop\dev-google\18-30-03\bin\Debug\net10.0\18-30-03.dll
+C:\Users\45797375800\Desktop\dev-google\18-30-03\bin\Debug\net10.0\18-30-03.pdb
+C:\Users\45797375800\Desktop\dev-google\18-30-03\obj\Debug\net10.0\18-30-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45797375800\Desktop\dev-google\18-30-03\obj\Debug\net10.0\18-30-03.AssemblyInfoInputs.cache
+C:\Users\45797375800\Desktop\dev-google\18-30-03\obj\Debug\net10.0\18-30-03.AssemblyInfo.cs
+C:\Users\45797375800\Desktop\dev-google\18-30-03\obj\Debug\net10.0\18-30-03.csproj.CoreCompileInputs.cache
+C:\Users\45797375800\Desktop\dev-google\18-30-03\obj\Debug\net10.0\18-30-03.sourcelink.json
+C:\Users\45797375800\Desktop\dev-google\18-30-03\obj\Debug\net10.0\18-30-03.dll
+C:\Users\45797375800\Desktop\dev-google\18-30-03\obj\Debug\net10.0\refint\18-30-03.dll
+C:\Users\45797375800\Desktop\dev-google\18-30-03\obj\Debug\net10.0\18-30-03.pdb
+C:\Users\45797375800\Desktop\dev-google\18-30-03\obj\Debug\net10.0\18-30-03.genruntimeconfig.cache
+C:\Users\45797375800\Desktop\dev-google\18-30-03\obj\Debug\net10.0\ref\18-30-03.dll
