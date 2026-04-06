@@ -1,0 +1,15 @@
+C:\Users\45797375800\Desktop\dev-google\cadastroProdutos\bin\Debug\net10.0\cadastroProdutos.exe
+C:\Users\45797375800\Desktop\dev-google\cadastroProdutos\bin\Debug\net10.0\cadastroProdutos.deps.json
+C:\Users\45797375800\Desktop\dev-google\cadastroProdutos\bin\Debug\net10.0\cadastroProdutos.runtimeconfig.json
+C:\Users\45797375800\Desktop\dev-google\cadastroProdutos\bin\Debug\net10.0\cadastroProdutos.dll
+C:\Users\45797375800\Desktop\dev-google\cadastroProdutos\bin\Debug\net10.0\cadastroProdutos.pdb
+C:\Users\45797375800\Desktop\dev-google\cadastroProdutos\obj\Debug\net10.0\cadastroProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45797375800\Desktop\dev-google\cadastroProdutos\obj\Debug\net10.0\cadastroProdutos.AssemblyInfoInputs.cache
+C:\Users\45797375800\Desktop\dev-google\cadastroProdutos\obj\Debug\net10.0\cadastroProdutos.AssemblyInfo.cs
+C:\Users\45797375800\Desktop\dev-google\cadastroProdutos\obj\Debug\net10.0\cadastroProdutos.csproj.CoreCompileInputs.cache
+C:\Users\45797375800\Desktop\dev-google\cadastroProdutos\obj\Debug\net10.0\cadastroProdutos.sourcelink.json
+C:\Users\45797375800\Desktop\dev-google\cadastroProdutos\obj\Debug\net10.0\cadastroProdutos.dll
+C:\Users\45797375800\Desktop\dev-google\cadastroProdutos\obj\Debug\net10.0\refint\cadastroProdutos.dll
+C:\Users\45797375800\Desktop\dev-google\cadastroProdutos\obj\Debug\net10.0\cadastroProdutos.pdb
+C:\Users\45797375800\Desktop\dev-google\cadastroProdutos\obj\Debug\net10.0\cadastroProdutos.genruntimeconfig.cache
+C:\Users\45797375800\Desktop\dev-google\cadastroProdutos\obj\Debug\net10.0\ref\cadastroProdutos.dll

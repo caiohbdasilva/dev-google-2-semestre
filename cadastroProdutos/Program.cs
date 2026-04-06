@@ -6,6 +6,21 @@
   Senha = "1234"
 };
 
+Gerente ger_2 = new Gerente(
+"Joao",
+"admin2@loja.com",
+"1234",
+"FN-002"
+);
+
+Usuario c = new Cliente("Ana","ana@email.com", "654321", "12345679811");
+
+ger.ExibirPerfil();
+c.ExibirPerfil();
+
+
+
+
 // Usuario u = new Usuario();
 
 bool logado = false;
@@ -62,3 +77,4 @@ while (opcao != 0)
       break;
   }
 }
+
