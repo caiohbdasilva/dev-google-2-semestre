@@ -2,10 +2,10 @@
 
 while (opcao != 0)
 {
-    Console.WriteLine($"1 - Cadastrar Produto");
-    Console.WriteLine($"2 - Listar Produtos");
+    Console.WriteLine($"Escolha uma opção: ");
+    Console.WriteLine($"1 - Cadastrar Aluno");
+    Console.WriteLine($"2 - Listar Alunos");
     Console.WriteLine($"0 - Sair");
-    Console.Write($"Escolha uma opção: ");
     opcao = int.Parse(Console.ReadLine()!);
 
     Console.Clear();
@@ -13,10 +13,10 @@ while (opcao != 0)
     switch (opcao)
     {
         case 1:
-            Produto.CadastrarProduto();
+            Aluno.CadastrarAlunos();
             break;
         case 2:
-            Produto.ListarProdutos();
+            Aluno.ListarAlunos();
             break;
         case 0:
             Console.WriteLine($"Encerrando o sistema...");
