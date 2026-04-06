@@ -1,0 +1,4 @@
+class Administrador : Usuario
+{
+    
+}
