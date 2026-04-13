@@ -1,17 +1,23 @@
-class Cliente :  Usuario
+class Cliente : Usuario
 {
   public string? CPF { get; set; }
 
-  public Cliente(string nome, string email, string senha, string cpf) : base(nome, email, senha)
-{
-  CPF = cpf;
-}
-
-  public override void ExibirPerfil() //Em função de uma herança (virtual)
+  public Cliente()
   {
-    Console.WriteLine($"=== PERFIL CLIENTE ===");
+    
+  }
+
+  public Cliente(string nome, string email, string senha, string cpf) : base(nome, email, senha)
+  {
+    CPF = cpf;
+  }
+
+  public override void ExibirPerfil()
+  {
+    Console.WriteLine($"\n=== PERFIL CLIENTE ===");
     Console.WriteLine($"Nome: {Nome}");
     Console.WriteLine($"Email: {Email}");
     Console.WriteLine($"CPF: {CPF}");
   }
+
 }

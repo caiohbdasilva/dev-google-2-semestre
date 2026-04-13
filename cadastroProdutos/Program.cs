@@ -1,80 +1,49 @@
-﻿Gerente ger = new Gerente()
+﻿class Produto
 {
-  Matricula = "FN-001",
-  Nome = "Clara",
-  Email = "admin@loja.com",
-  Senha = "1234"
-};
+  public int Codigo;
+  public string? Nome;
+  public decimal Preco;
 
-Gerente ger_2 = new Gerente(
-"Joao",
-"admin2@loja.com",
-"1234",
-"FN-002"
-);
-
-Usuario c = new Cliente("Ana","ana@email.com", "654321", "12345679811");
-
-ger.ExibirPerfil();
-c.ExibirPerfil();
+  public static List<Produto> listaProdutos = new List<Produto>();
 
 
-
-
-// Usuario u = new Usuario();
-
-bool logado = false;
-
-while (!logado)
-{
-  Console.WriteLine($"=== Login Gerente ===");
-
-  Console.Write($"Email: ");
-  string emailInput = Console.ReadLine()!;
-
-  Console.Write($"Senha: ");
-  string senhaInput = Console.ReadLine()!;
-
-  if (emailInput == ger.Email && senhaInput == ger.Senha)
+  public static void CadastrarProduto()
   {
-    logado = true;
-    Console.WriteLine($"Login realizado com sucesso!\n");
+    Produto produto = new Produto();
+
+    Console.Write($"Digite o código do produto: ");
+    produto.Codigo = int.Parse(Console.ReadLine()!);
+
+    Console.Write($"Digite o nome do produto: ");
+    produto.Nome = Console.ReadLine()!;
+
+    Console.Write($"Digite o preço do produto: ");
+    produto.Preco = decimal.Parse(Console.ReadLine()!);
+
+    listaProdutos.Add(produto);
+
+    Console.WriteLine($"\nProduto cadastrado com sucesso!\n");
+
   }
-  else
+
+  public static void ListarProdutos()
   {
-    Console.WriteLine($"Login ou senha incorretos. Tente novamente.\n");
+    Console.WriteLine($"\n=== LISTA DE PRODUTOS ===");
+
+    if (listaProdutos.Count == 0)
+    {
+      Console.WriteLine($"Nenhum produto cadastrado.\n");
+      return;
+    }
+
+    foreach (var item in listaProdutos)
+    {
+      Console.WriteLine($"Código: {item.Codigo}");
+      Console.WriteLine($"Nome: {item.Nome}");
+      Console.WriteLine($"Preço: {item.Preco}");
+      Console.WriteLine($"------------------");
+    }
+
   }
 
 }
-
-int opcao = -1;
-
-while (opcao != 0)
-{
-  Console.WriteLine($"1 - Cadastrar Produto");
-  Console.WriteLine($"2 - Listar Produtos");
-  Console.WriteLine($"0 - Sair");
-  Console.Write($"Escolha uma opção: ");
-  opcao = int.Parse(Console.ReadLine()!);
-
-  // Console.Clear();
-
-  switch (opcao)
-  {
-    case 1:
-      Produto.CadastrarProduto();
-      break;
-    case 2:
-      Produto.ListarProdutos();
-      break;
-    case 0:
-      opcao = 0;
-      Console.WriteLine($"Encerrando o sistema...");
-      break;
-
-    default:
-      Console.WriteLine($"Opção invalida");
-      break;
-  }
-}
-
