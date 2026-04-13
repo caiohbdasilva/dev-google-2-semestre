@@ -1,4 +1,4 @@
-public class ElevadorSocial : Elevador 
+public class ElevadorSocial : ElevadorAbstract
 {
  
 }

@@ -1,4 +1,4 @@
-public abstract class Elevador
+public abstract class ElevadorAbstract
 {
  
     public int AndarAtual { get; private set; } 

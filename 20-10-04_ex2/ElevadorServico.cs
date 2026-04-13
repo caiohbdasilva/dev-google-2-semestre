@@ -1,4 +1,4 @@
-public class ElevadorServico : Elevador
+public class ElevadorServico : ElevadorAbstract
 {
     public int Caixas { get; private set; }
 
