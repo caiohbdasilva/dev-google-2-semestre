@@ -13,7 +13,7 @@ public Usuario(){ }
     Senha = senha;
   }
 
-public virtual void ExibirPerfil()
+public virtual void ExibirPerfil() //Método base para ser sobreescrito (override)
   {
     Console.WriteLine($"Nome: {Nome}");
     Console.WriteLine($"Email: {Email}");

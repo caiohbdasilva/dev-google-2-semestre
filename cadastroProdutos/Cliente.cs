@@ -7,7 +7,7 @@ class Cliente :  Usuario
   CPF = cpf;
 }
 
-  public override void ExibirPerfil()
+  public override void ExibirPerfil() //Em função de uma herança (virtual)
   {
     Console.WriteLine($"=== PERFIL CLIENTE ===");
     Console.WriteLine($"Nome: {Nome}");

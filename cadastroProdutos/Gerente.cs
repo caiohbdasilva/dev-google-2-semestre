@@ -10,7 +10,7 @@ class Gerente : Usuario
   }
 
 
-  public override void ExibirPerfil()
+  public override void ExibirPerfil() //Em função de uma herança (virtual)
   {
     Console.WriteLine($"=== PERFIL GERENTE ===");
     Console.WriteLine($"Nome: {Nome}");
