@@ -12,3 +12,4 @@ C:\Users\45797375800\Desktop\dev-google\variaveis\obj\Debug\net10.0\refint\varia
 C:\Users\45797375800\Desktop\dev-google\variaveis\obj\Debug\net10.0\variaveis.pdb
 C:\Users\45797375800\Desktop\dev-google\variaveis\obj\Debug\net10.0\variaveis.genruntimeconfig.cache
 C:\Users\45797375800\Desktop\dev-google\variaveis\obj\Debug\net10.0\ref\variaveis.dll
+C:\Users\45797375800\Desktop\dev-google\variaveis\obj\Debug\net10.0\variaveis.sourcelink.json
