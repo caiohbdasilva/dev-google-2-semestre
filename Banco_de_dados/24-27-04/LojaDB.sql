@@ -62,28 +62,58 @@ SELECT * FROM Pedidos
 ORDER BY DataPedido DESC
 
 --Ex.7
-SELECT c.Nome, p.DataPedido, p.ValorTotal FROM Cliente c INNER JOIN Pedidos p
+SELECT c.Nome, p.DataPedido, p.ValorTotal 
+FROM Cliente c INNER JOIN Pedidos p
 ON c.ClienteID = p.ClienteID
 
 --Ex.8
-SELECT c.Nome, p.DataPedido, p.ValorTotal FROM Cliente c INNER JOIN Pedidos p
+SELECT c.Nome, p.DataPedido, p.ValorTotal 
+FROM Cliente c INNER JOIN Pedidos p
 ON c.ClienteID = p.ClienteID
 WHERE c.ClienteID = 2
 
 --Ex. 9
-SELECT c.Nome, p.PedidoID FROM Cliente c LEFT JOIN Pedidos p
+SELECT c.Nome, p.PedidoID 
+FROM Cliente c LEFT JOIN Pedidos p
 ON c.ClienteID = p.ClienteID
 
 --Ex. 10
-SELECT c.Nome, p.PedidoID FROM Cliente c RIGHT JOIN Pedidos p
+SELECT c.Nome, p.PedidoID 
+FROM Cliente c RIGHT JOIN Pedidos p
 ON c.ClienteID = p.ClienteID
 
 --Ex. 11
-SELECT c.Nome, p.PedidoID FROM Cliente c FULL OUTER JOIN Pedidos p
+SELECT c.Nome, p.PedidoID 
+FROM Cliente c FULL OUTER JOIN Pedidos p
 ON c.ClienteID = p.ClienteID
 
 --Ex. 12
-SELECT c.ClienteID, COUNT(*) 
+SELECT c.Nome, c.ClienteID, COUNT(*) AS 'Total de itens'
 FROM Cliente c JOIN Pedidos p
 ON c.ClienteID = p.ClienteID
-ORDER BY p.PedidoID
+GROUP BY c.ClienteID, c.Nome
+
+--Ex. 13
+SELECT c.ClienteID, SUM(p.ValorTotal) AS 'Total Gasto'
+FROM Cliente c RIGHT JOIN Pedidos p
+ON c.ClienteID = p.ClienteID
+GROUP BY c.ClienteID
+
+-- Ex. 14
+SELECT c.Nome, c.ClienteID, SUM(p.ValorTotal) AS 'Total Gasto'
+FROM Cliente c INNER JOIN Pedidos p
+ON c.ClienteID = p.ClienteID
+GROUP BY c.Nome, c.ClienteID
+
+-- Ex. 15
+SELECT c.Nome, c.ClienteID, SUM(p.ValorTotal) AS 'Total Gasto'
+FROM Cliente c INNER JOIN Pedidos p
+ON c.ClienteID = p.ClienteID
+GROUP BY c.Nome, c.ClienteID
+ORDER BY [Total Gasto] DESC
+
+SELECT *
+FROM Pedidos
+
+SELECT *
+FROM Cliente
